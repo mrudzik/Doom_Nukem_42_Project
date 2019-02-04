@@ -1,0 +1,102 @@
+vertex 120  110  110  
+vertex 130  120  100  100  120  100  50  50  
+vertex 140  120  100  100  120  100  40  40  80  80  80  
+vertex 150  130  90  90  130  90  130  130  90  90  
+vertex 160  160  160  160  70  70  70  
+vertex 170  140  180  140  140  180  140  20  20  60  60  60  80  80  80  80  60  80  60  80  80  80  80  140  
+vertex 180  110  110  150  150  150  60  60  60  110  60  60  60  110  110  110  110  110  150  110  110  150  110  
+vertex 190  180  180  150  150  150  60  60  60  60  60  60  60  150  
+vertex 200  140  140  140  20  70  70  20  70  70  70  70  70  70  140  140  
+vertex 210  170  170  120  120  100  120  100  80  100  80  80  100  80  120  100  
+vertex 230  150  150  40  40  
+vertex 240  120  120  
+vertex 250  80  80  
+
+sector  0  20      0  2  3  0      -1 -1 1 -1 
+sector  0  20      3  2  9  10  3      -1 0 -1 2 -1 
+sector  0  20      10  9  19  20  10      -1 1 -1 3 -1 
+sector  0  99      20  19  57  20      -1 2 4 18 
+sector  0  99      19  28  34  57  19      -1 -1 5 27 3 
+sector  5  99      28  35  34  28      -1 -1 6 4 
+sector  10  99      34  35  79  59  34      -1 5 -1 7 27 
+sector  15  99      59  79  107  81  59      -1 6 -1 8 26 
+sector  20  99      81  107  122  92  81      -1 7 -1 9 26 
+sector  25  99      92  122  126  109  92      -1 8 -1 10 25 
+sector  30  99      109  126  128  111  109      -1 9 -1 11 25 
+sector  35  99      111  128  124  114  111      -1 10 -1 12 24 
+sector  40  99      114  124  95  96  114      -1 11 -1 13 24 
+sector  45  99      96  95  40  84  96      23 12 -1 14 22 
+sector  50  99      84  40  14  62  84      21 13 -1 15 21 
+sector  55  99      62  14  7  42  62      20 14 -1 16 20 
+sector  60  99      42  7  16  31  42      -1 15 -1 17 19 
+sector  0  80      16  20  45  31  16      -1 -1 18 19 16 
+sector  0  99      45  20  57  45      19 17 3 23 
+sector  0  99      45  42  31  45      18 20 16 17 
+sector  0  99      62  42  45  62      15 15 19 21 
+sector  0  99      84  62  45  84      14 14 20 22 
+sector  0  99      84  45  96  84      14 21 23 13 
+sector  0  99      96  45  57  96      13 22 18 24 
+sector  0  99      96  57  111  114  96      13 23 25 11 12 
+sector  0  99      57  92  109  111  57      26 26 9 10 24 
+sector  0  99      57  59  81  92  57      25 27 7 8 25 
+sector  0  99      57  34  59  57      25 4 6 26 
+
+
+end 0  
+door_sector 0  
+lift 17  
+player 109  159  2  3  
+key 1 64  144  16  
+key 3 69  166  19  
+enemy 42  211  12  
+enemy 59  206  12  
+enemy 32  187  13  
+enemy 45  194  13  
+enemy 43  185  13  
+ammunition 2 36  162  14  
+ammunition 2 45  169  14  
+ammunition 1 39  155  14  
+ammunition 1 38  167  14  
+key 2 138  187  26  
+enemy 130  181  27  
+enemy 139  186  26  
+enemy 122  195  25  
+enemy 157  209  8  
+enemy 150  201  8  
+ammunition 1 168  193  7  
+ammunition 1 159  190  7  
+ammunition 2 135  229  9  
+ammunition 2 136  218  9  
+ammunition 1 129  213  9  
+ammunition 1 126  221  9  
+ammunition 1 120  145  2  
+ammunition 1 113  143  1  
+ammunition 2 104  146  2  
+texture_sector 0  0  
+texture_sector 1  0  
+texture_sector 2  0  
+texture_sector 3  1  
+texture_sector 4  2  
+texture_sector 5  4  
+texture_sector 6  2  
+texture_sector 7  4  
+texture_sector 8  4  
+texture_sector 9  2  
+texture_sector 10  4  
+texture_sector 11  2  
+texture_sector 12  4  
+texture_sector 13  2  
+texture_sector 14  4  
+texture_sector 15  2  
+texture_sector 16  2  
+texture_sector 17  0  
+texture_sector 18  0  
+texture_sector 19  0  
+texture_sector 20  0  
+texture_sector 21  0  
+texture_sector 22  0  
+texture_sector 23  0  
+texture_sector 24  0  
+texture_sector 25  0  
+texture_sector 26  0  
+texture_sector 27  0  
